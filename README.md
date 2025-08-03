@@ -22,9 +22,9 @@ This project implements fine-tuning of the Llama-2-7b-chat model on medical data
 ## 📋 Prerequisites
 
 ### System Requirements
-- **GPU**: NVIDIA GPU with CUDA support (recommended: 8GB+ VRAM)
-- **RAM**: Minimum 16GB system RAM
-- **Storage**: At least 50GB free space for models and datasets
+- **GPU**: Google Colab A100 GPU (40GB VRAM) - Recommended for optimal performance
+- **Alternative**: Any NVIDIA GPU with CUDA support (minimum: 8GB+ VRAM)
+- **Google Colab Pro+** (for A100 access)
 
 ### Software Requirements
 - Python 3.8+
